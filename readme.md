@@ -1,3 +1,6 @@
+⚠️BE ADVISED: UNKNOWN COMPATIBILITY WITH LATEST ARMA 3 VERSIONS - DO NOT USE!
+
+
 SafeZonesAltis
 Original Script by Friendly Edit for Altis by BoleParty[TGM]
 
